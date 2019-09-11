@@ -1,0 +1,2 @@
+# Contoh
+Semua tentang Script 
